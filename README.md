@@ -115,6 +115,10 @@ The app uses Tailwind CSS for styling, installed via Rails:
 
     rails new turbo-todos -c tailwind
 
+## Screenshots
+
+![App Screenshot](/public/todo.png)
+
 Contributing
 
 Feel free to submit issues or pull requests.
